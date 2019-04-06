@@ -11,3 +11,8 @@
  def first_element(arr)
  arr.shift
  end
+ 
+ def third_element
+   
+ 
+ end
