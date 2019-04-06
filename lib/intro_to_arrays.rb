@@ -9,5 +9,5 @@
  end
  
  def first_element(arr)
-   return arr.shift
+ arr.shift
  end
