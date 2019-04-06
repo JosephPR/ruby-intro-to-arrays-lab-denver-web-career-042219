@@ -13,6 +13,6 @@
  end
  
  def third_element(arr)
-   arr
+   arr[2]
  
  end
