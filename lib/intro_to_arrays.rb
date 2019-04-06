@@ -16,3 +16,6 @@
    arr[2]
  
  end
+ def last_element(arr)
+   arr.last
+ end 
