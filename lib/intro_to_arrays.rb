@@ -12,7 +12,7 @@
  arr.shift
  end
  
- def third_element
-   
+ def third_element(arr)
+   arr
  
  end
