@@ -29,6 +29,6 @@
  end
  
  def length_of_array(arr)
-   arr.length_of_array
+   arr.length
    
  end 
